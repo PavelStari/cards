@@ -19,7 +19,7 @@ class Card {
     }
     toHtml(){
         return `<div class='card-small'>
-                    <img src='/uploads/2022/11/card-bg.png'>
+                    <img src='https://i.postimg.cc/Hs9Wm9xP/building-14715574.png'>
                     <p class='number'>${this.number}</p>
                     <p>${this.holder.name} ${this.holder.surname}</p>
                     <p>${this.month}/${this.yaer}</p>
