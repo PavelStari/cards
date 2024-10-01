@@ -55,8 +55,8 @@ body {
 .card img {
     position: absolute;
     width: 50%;
-    top: 1;
-    left: 23%;
+    top: 3%;
+    left: 25%;
     z-index: 0;
 }
 
