@@ -263,9 +263,9 @@ input:focus {
 }
 
 .card-small img {
-    width: 100%;
-    top: 0;
-    left: 0;
+    width:20%;
+    top: 30%;
+    left: 40%;
     position: absolute;
     z-index: 0;
 }
